@@ -1,3 +1,3 @@
-Git is a version control system
+dsGit is a version control system
 git is free software
 qcc
